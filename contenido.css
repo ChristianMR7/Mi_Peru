@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    border: 0;
+    background-color:aliceblue;
+}
+header{
+    /*background-color: black;*/
+    text-align: center;
+}
+header img{
+    width: 80%;
+    border-radius: 2%;
+    max-height: 700px;
+    transition: transform 0.5 ease;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: #00172B;
+    padding: 10px;
+}
+main{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+    background-color:white;
+}
+main p{
+    text-align:justify;
+    text-indent: 2em;
+    font-size: 20px;
+}
+iframe{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+/* .btn:hover{
+    border: 2px solid #ff96ad;
+    color: #ff96ad;
+    background-color: #17181c;
+} */
